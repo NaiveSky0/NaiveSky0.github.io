@@ -6,7 +6,7 @@
   <link href="https://naivesky0.github.io/atom.xml" rel="self"/>
   
   <link href="https://naivesky0.github.io/"/>
-  <updated>2021-09-25T05:18:09.292Z</updated>
+  <updated>2021-09-25T12:34:29.757Z</updated>
   <id>https://naivesky0.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>picasso</title>
+    <link href="https://naivesky0.github.io/2021/09/25/picasso/"/>
+    <id>https://naivesky0.github.io/2021/09/25/picasso/</id>
+    <published>2021-09-25T12:14:42.000Z</published>
+    <updated>2021-09-25T12:34:29.757Z</updated>
+    
+    <content type="html"><![CDATA[<p>#适用于picasso<br>#备份用<br>#一·救砖<br>01·官方线刷包地址<br>V12.5.3(Android 11):<br><a href="https://bigota.d.miui.com/V12.5.3.0.RGICNXM/picasso_images_V12.5.3.0.RGICNXM_20210705.0000.00_11.0_cn_92bc3cd538.tgz">https://bigota.d.miui.com/V12.5.3.0.RGICNXM/picasso_images_V12.5.3.0.RGICNXM_20210705.0000.00_11.0_cn_92bc3cd538.tgz</a><br>02·Miflash2018<br>From:<a href="http://www.miui.com/shuaji-393.html">http://www.miui.com/shuaji-393.html</a><br>链接：<a href="http://bigota.d.miui.com/tools/MiFlash2018-5-28-0.zip">http://bigota.d.miui.com/tools/MiFlash2018-5-28-0.zip</a><br>注:电脑用USB2.0接口<br>#二·解bl<br>00.开发设置—-设备解锁状态，在移动网络环境下绑定。<br>01.官网下载解锁工具<br>链接：<a href="http://www.miui.com/unlock/download.html">http://www.miui.com/unlock/download.html</a><br>#三·rec<br>(a)Android 10<br>w大TWRP rec<br>(b)Android 11<br>OR rec<br>链接：<a href="https://orangefox.download/zh-CN/device/picasso">https://orangefox.download/zh-CN/device/picasso</a><br>#四·su<br>Magisk<br>23000 ok</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;#适用于picasso&lt;br&gt;#备份用&lt;br&gt;#一·救砖&lt;br&gt;01·官方线刷包地址&lt;br&gt;V12.5.3(Android 11):&lt;br&gt;&lt;a href=&quot;https://bigota.d.miui.com/V12.5.3.0.RGICNXM/picasso_images</summary>
+      
+    
+    
+    
+    
+    <category term="-flash -daily" scheme="https://naivesky0.github.io/tags/flash-daily/"/>
+    
+  </entry>
   
   <entry>
     <title>2021-09-25-log</title>
