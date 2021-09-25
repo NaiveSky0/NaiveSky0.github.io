@@ -6,7 +6,7 @@
   <link href="https://naivesky0.github.io/atom.xml" rel="self"/>
   
   <link href="https://naivesky0.github.io/"/>
-  <updated>2021-09-21T06:47:36.905Z</updated>
+  <updated>2021-09-25T05:18:09.292Z</updated>
   <id>https://naivesky0.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2021-09-25-log</title>
+    <link href="https://naivesky0.github.io/2021/09/25/2021-09-25-backup/"/>
+    <id>https://naivesky0.github.io/2021/09/25/2021-09-25-backup/</id>
+    <published>2021-09-25T05:13:18.000Z</published>
+    <updated>2021-09-25T05:18:09.292Z</updated>
+    
+    <content type="html"><![CDATA[<p>2021-09-25<br>新增 添加了分类<br>新增 添加了标签<br>优化 改用Mist样式</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;2021-09-25&lt;br&gt;新增 添加了分类&lt;br&gt;新增 添加了标签&lt;br&gt;优化 改用Mist样式&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="log" scheme="https://naivesky0.github.io/categories/log/"/>
+    
+    
+    <category term="update" scheme="https://naivesky0.github.io/tags/update/"/>
+    
+  </entry>
   
   <entry>
     <title>My New Post</title>
